@@ -7,9 +7,6 @@
     <li>Vista individual de la imagen
 </ul>
 
-***
-<p>La vistas unicamente son el esquema de la aplicación y carece de interaccion es decir no tiene JS asociado.</p>
-
 <div align="center">
     <img src="https://github.com/BrainDead59/Clon_Pinterest/blob/main/readme/Captura.PNG" width="700" height="300">
 </div>
