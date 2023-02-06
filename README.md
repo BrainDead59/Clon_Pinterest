@@ -1,5 +1,5 @@
 <h1>Clon de Pinterest</h1>
-<p>Este proyecto fue parte del curso que tome en DEV.F, aplique HTML y CSS, consiste en un clon de pinteres que esta divido en varias secciones</p>
+<p>Este proyecto fue parte del curso que tome en DEV.F, aplique HTML y CSS, consiste en un clon de pinteres que esta divido en varias secciones, utilando Visual Studio Code como editor.</p>
 
 <ul>
     <li>Página principal
